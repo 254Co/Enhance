@@ -1,0 +1,9 @@
+RNNs and LSTMs are designed to handle sequential data, capturing temporal dependencies and patterns over time. They can generate features that encapsulate the dynamic behavior of the data.
+
+Application:
+
+	•	Time-series data
+	•	Sequential data analysis
+
+Example:
+For financial time-series data, an LSTM network can create features that summarize historical trends and patterns, which can then be used to predict future movements.

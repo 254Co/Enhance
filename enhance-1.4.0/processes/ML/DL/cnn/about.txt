@@ -1,0 +1,9 @@
+CNNs are effective at automatically learning spatial hierarchies of features from images. The convolutional layers can extract local patterns such as edges, textures, and shapes, which can then be used as features for other models.
+
+Application:
+
+	•	Image data feature extraction
+	•	Spatial data analysis
+
+Example:
+In image classification tasks, features extracted by CNN layers (like edges and textures) can be used as input features for traditional machine learning models, enhancing their performance.

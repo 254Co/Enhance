@@ -1,0 +1,14 @@
+database:
+  host: "localhost"
+  port: 3306
+  user: "root"
+  password: "<YOUR_DB_PASSWORD>"  # INPUT_REQUIRED {Database password}
+  name: "enhance_db"
+
+openai:
+  api_key: "your-openai-api-key-here"  # INPUT_REQUIRED {OpenAI API key}
+
+kafka:
+  bootstrap_servers: "localhost:9092"
+  input_topic: "input_topic"
+  output_topic: "output_topic"

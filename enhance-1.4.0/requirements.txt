@@ -1,0 +1,7 @@
+pyspark
+tensorflow
+keras
+scikit-learn
+joblib
+pytest
+google-cloud-storage
