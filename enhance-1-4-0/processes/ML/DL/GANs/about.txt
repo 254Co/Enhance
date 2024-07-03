@@ -1,9 +1,0 @@
-While primarily known for generating synthetic data, GANs can also be used for feature engineering by creating new, meaningful representations of the input data through the adversarial training process.
-
-Application:
-
-	•	Data augmentation
-	•	Creating new feature spaces
-
-Example:
-In a dataset with limited diversity, a GAN can generate new data points that introduce variability and improve the robustness of features used by other models.
